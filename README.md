@@ -21,8 +21,8 @@ As principais tecnologias, ferramentas e bibliotecas que você usou no seu proje
 
 # 😎 Veja como o projeto ficou:
 
-> Desktop 
-![projeto3](https://user-images.githubusercontent.com/109535627/200151032-8222b5e1-d4bd-459f-88fa-6facb5b8fc27.png)
+Desktop 
+> ![projeto3](https://user-images.githubusercontent.com/109535627/200151032-8222b5e1-d4bd-459f-88fa-6facb5b8fc27.png)
 
 Mobile
 > ![Design sem nome](https://github.com/Anasenna01/Landing-Page/assets/109535627/3bf0cbd4-8493-40be-b3a2-483c1240bcac)
