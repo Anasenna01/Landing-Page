@@ -5,7 +5,7 @@ Uma landing page desenvolvida em HTML e CSS com o objetivo de responsividade e b
 
 # 💻 Tecnologias
 
-As principais tecnologias, ferramentas e bibliotecas que você usou no seu projeto.
+As principais tecnologias, ferramentas e bibliotecas que eu usei no projeto.
 
 - HTML: Para estruturação do conteúdo da página em elementos como div, button, classes e forms;
 - CSS: Para estilizar a página com cores, responsividade, fontes, bordas, margens, alinhamentos e variáveis;
