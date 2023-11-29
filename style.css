@@ -65,7 +65,7 @@
     padding: 6px 8px;
     border-radius: 5px;
     border: none;
-    outline: none;
+    outline-color: transparent;
 }
 .btn {
     background-color: var(--primary);
